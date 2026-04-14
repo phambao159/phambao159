@@ -20,7 +20,7 @@
 
 ### 📊 My Performance
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phambao159/phambao159/output/github-contribution-grid-snake.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/phambao159/phambao159/output/github-contribution-grid-snake-dark.svg" alt="Stats" />
 </p>
 
 <p align="center">
