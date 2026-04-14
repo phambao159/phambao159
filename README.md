@@ -20,7 +20,7 @@
 
 ### 📊 My Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phambao159&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/phambao159/phambao159/output/github-contribution-grid-snake.svg" alt="Stats" />
 </p>
 
 <p align="center">
