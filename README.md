@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Backend+Enthusiast;Clean+Architecture+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Backend+Enthusiast" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on **.NET projects**.
