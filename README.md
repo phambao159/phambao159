@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on **.NET projects**.
+  - 🔭 I’m currently working on <b>.NET projects</b>
 </p>
 <p align="left">
-  - 🌱 I’m currently learning more about **Clean Architecture**, **Microservice**, and **Design Structure**.
+  - 🌱 I’m currently learning more about <b>Clean Architecture</b> <b>Microservice</b> and <b>Design Structure</b>.
 </p>
 
 
